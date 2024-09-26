@@ -1,0 +1,963 @@
+
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7b996c222f50>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c222f80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c221960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c222f50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c222f80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c221960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c222f50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c222f80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c221960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c222f50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c222f80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+
+
+
+
+
+
+
+
+
+
+
+
+
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7b996c221960>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c222f50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 57140)>
+INFO:root:Sending message to <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51476)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b996c222f80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7291f686af50>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f686af80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f6869960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f686af50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f686af80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f6869960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f686af50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f686af80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f6869960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f686af50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f686af80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7291f6869960>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f686af50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 52946)>
+INFO:root:Sending message to <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36634)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7291f686af80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x768ebc6caf50>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6caf80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6c9960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6caf50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6caf80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6c9960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6caf50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6caf80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6c9960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6caf50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6caf80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x768ebc6c9960>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6caf50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 48874)>
+INFO:root:Sending message to <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44452)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x768ebc6caf80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x70aa069f6b30>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6ad0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6b30>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6ad0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6b30>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6ad0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6b30>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x70aa069f6ad0>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6b30>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38628)>
+INFO:root:Sending message to <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 38644)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x70aa069f6b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7ea230c16b30>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16ad0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16b30>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16ad0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16b30>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16ad0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16b30>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7ea230c16ad0>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16b30>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 51860)>
+INFO:root:Sending message to <socket.socket fd=8, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 40922)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ea230c16b90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x76b85f34ef50>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 46142)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x76b85f34d960>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36204)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36204)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36204)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36204)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36204)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36204)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36204)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36204)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 36204)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x76b85f34ef80>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44718)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44718)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44718)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44718)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44718)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44718)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44718)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef50>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44718)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34ef80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 44718)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x76b85f34d960>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:Producer iwmbqk:iwmbqk: 20
+INFO:Producer iwmbqk:iwmbqk: 21
+INFO:Producer iwmbqk:iwmbqk: 78
+INFO:Producer iwmbqk:iwmbqk: 77
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7444bd9431c0>
+INFO:Producer iwmbqk:iwmbqk: 29
+INFO:root:Command: subscribe
+INFO:Producer iwmbqk:iwmbqk: 61
+INFO:Producer iwmbqk:iwmbqk: 64
+INFO:Producer iwmbqk:iwmbqk: 98
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd943670>
+INFO:Producer iwmbqk:iwmbqk: 16
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 20
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Producer iwmbqk:iwmbqk: 7
+INFO:Consumer iwmbqk:iwmbqk: 20
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd91ae90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 21
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Consumer iwmbqk:iwmbqk: 21
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd940df0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 78
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Consumer iwmbqk:iwmbqk: 78
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd942da0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 77
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Consumer iwmbqk:iwmbqk: 77
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd943820>
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 29
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Consumer iwmbqk:iwmbqk: 29
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd940e20>
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 61
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Consumer iwmbqk:iwmbqk: 61
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd943bb0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 64
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Consumer iwmbqk:iwmbqk: 64
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd943d00>
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 98
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Consumer iwmbqk:iwmbqk: 98
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd943d90>
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 16
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Consumer iwmbqk:iwmbqk: 16
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7444bd943ca0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: iwmbqk 7
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47078)>
+INFO:Consumer iwmbqk:iwmbqk: 7
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7444bd943af0>
+INFO:root:Command: subscribe
+INFO:Producer iwmbqk:iwmbqk: 25
+INFO:Producer iwmbqk:iwmbqk: 38
+INFO:Producer iwmbqk:iwmbqk: 67
+INFO:Producer iwmbqk:iwmbqk: 50
+INFO:Consumer iwmbqk:iwmbqk: 7
+INFO:Producer iwmbqk:iwmbqk: 79
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7444bd943ee0>
+INFO:root:Command: subscribe
+INFO:Producer iwmbqk:iwmbqk: 50
+INFO:Producer iwmbqk:iwmbqk: 77
+INFO:Consumer iwmbqk:iwmbqk: 7
+INFO:Producer iwmbqk:iwmbqk: 38
+INFO:Producer iwmbqk:iwmbqk: 91
+INFO:Producer iwmbqk:iwmbqk: 40
+INFO:Producer /xkqyud/ilepgd:/xkqyud/ilepgd: 71
+INFO:Producer /xkqyud/civbqn:/xkqyud/civbqn: 35
+INFO:Producer wcdmvh:wcdmvh: 78
+INFO:Producer wcdmvh:wcdmvh: 10
+INFO:Producer qsupwt:qsupwt: 71
+INFO:Producer qsupwt:qsupwt: 22
+INFO:Producer qsupwt:qsupwt: 24
+INFO:Producer qsupwt:qsupwt: 43
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7470f458f2e0>
+INFO:Producer qsupwt:qsupwt: 87
+INFO:root:Command: subscribe
+INFO:Producer qsupwt:qsupwt: 83
+INFO:Producer qsupwt:qsupwt: 60
+INFO:Producer qsupwt:qsupwt: 39
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458f640>
+INFO:Producer qsupwt:qsupwt: 97
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 71
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Producer qsupwt:qsupwt: 17
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458cf40>
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 22
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Consumer qsupwt:qsupwt: 71
+INFO:Consumer qsupwt:qsupwt: 22
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458cf40>
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 24
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Consumer qsupwt:qsupwt: 24
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458faf0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 43
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Consumer qsupwt:qsupwt: 43
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458f640>
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 87
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Consumer qsupwt:qsupwt: 87
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458fbe0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 83
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Consumer qsupwt:qsupwt: 83
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458faf0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 60
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Consumer qsupwt:qsupwt: 60
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458f640>
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 39
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Consumer qsupwt:qsupwt: 39
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458f640>
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 97
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Consumer qsupwt:qsupwt: 97
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7470f458faf0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: qsupwt 17
+INFO:root:Sending message to <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47732)>
+INFO:Consumer qsupwt:qsupwt: 17
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7470f455e7d0>
+INFO:root:Command: subscribe
+INFO:Producer qsupwt:qsupwt: 66
+INFO:Producer qsupwt:qsupwt: 70
+INFO:Consumer qsupwt:qsupwt: 17
+INFO:Producer qsupwt:qsupwt: 68
+INFO:Producer qsupwt:qsupwt: 44
+INFO:Producer qsupwt:qsupwt: 92
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7470f458ff40>
+INFO:root:Command: subscribe
+INFO:Producer qsupwt:qsupwt: 88
+INFO:Producer qsupwt:qsupwt: 72
+INFO:Producer qsupwt:qsupwt: 50
+INFO:Producer qsupwt:qsupwt: 4
+INFO:Consumer qsupwt:qsupwt: 17
+INFO:Producer qsupwt:qsupwt: 34
+INFO:Producer /umweba/otsiek:/umweba/otsiek: 60
+INFO:Producer /umweba/gaezkd:/umweba/gaezkd: 2
+INFO:Producer xlytws:xlytws: 63
+INFO:Producer xlytws:xlytws: 62
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 55556)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 60504)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 60504)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 60504)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 60504)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 60504)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 60504)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 60504)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 60504)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 60504)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47014)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47014)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47014)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47014)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47014)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47014)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47014)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47014)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 47014)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7ff9175a6ec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7bbc56dbeb60>
+INFO:Producer xjvzsh:xjvzsh: 68
+INFO:root:Command: subscribe
+INFO:Producer xjvzsh:xjvzsh: 30
+INFO:Producer xjvzsh:xjvzsh: 5
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbee60>
+INFO:Producer xjvzsh:xjvzsh: 68
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 68
+INFO:Producer xjvzsh:xjvzsh: 78
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:Producer xjvzsh:xjvzsh: 93
+INFO:Producer xjvzsh:xjvzsh: 30
+INFO:Producer xjvzsh:xjvzsh: 26
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbf0a0>
+INFO:Producer xjvzsh:xjvzsh: 85
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 30
+INFO:Producer xjvzsh:xjvzsh: 46
+INFO:Consumer xjvzsh:xjvzsh: 68
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:Consumer xjvzsh:xjvzsh: 30
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbf0a0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 5
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:Consumer xjvzsh:xjvzsh: 5
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbf6a0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 68
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbf6a0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 78
+INFO:Consumer xjvzsh:xjvzsh: 68
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:Consumer xjvzsh:xjvzsh: 78
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbe8f0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 93
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:Consumer xjvzsh:xjvzsh: 93
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbf7c0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 30
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:Consumer xjvzsh:xjvzsh: 30
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbf760>
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 26
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbfa00>
+INFO:Consumer xjvzsh:xjvzsh: 26
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 85
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:Consumer xjvzsh:xjvzsh: 85
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7bbc56dbfa00>
+INFO:root:Command: publish
+INFO:root:Received message to publish: xjvzsh 46
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45708)>
+INFO:Consumer xjvzsh:xjvzsh: 46
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7bbc56dbeb30>
+INFO:root:Command: subscribe
+INFO:Consumer xjvzsh:xjvzsh: 46
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7bbc56dbf970>
+INFO:root:Command: subscribe
+INFO:Producer xjvzsh:xjvzsh: 75
+INFO:Producer xjvzsh:xjvzsh: 55
+INFO:Producer xjvzsh:xjvzsh: 31
+INFO:Consumer xjvzsh:xjvzsh: 46
+INFO:Producer xjvzsh:xjvzsh: 98
+INFO:Producer xjvzsh:xjvzsh: 71
+INFO:Producer xjvzsh:xjvzsh: 100
+INFO:Producer xjvzsh:xjvzsh: 5
+INFO:Producer xjvzsh:xjvzsh: 83
+INFO:Producer xjvzsh:xjvzsh: 76
+INFO:Producer xjvzsh:xjvzsh: 32
+INFO:Producer /zcsdag/tsmpzj:/zcsdag/tsmpzj: 85
+INFO:Producer /zcsdag/olbvci:/zcsdag/olbvci: 46
+INFO:Producer yiobsj:yiobsj: 20
+INFO:Producer yiobsj:yiobsj: 24
+INFO:Producer mbyutd:mbyutd: 46
+INFO:Producer mbyutd:mbyutd: 70
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x72f7c6b82ad0>
+INFO:Producer mbyutd:mbyutd: 85
+INFO:root:Command: subscribe
+INFO:Producer mbyutd:mbyutd: 62
+INFO:Producer mbyutd:mbyutd: 50
+INFO:Producer mbyutd:mbyutd: 84
+INFO:Producer mbyutd:mbyutd: 26
+INFO:Producer mbyutd:mbyutd: 85
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b82f80>
+INFO:Producer mbyutd:mbyutd: 53
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 46
+INFO:Producer mbyutd:mbyutd: 33
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b82ad0>
+INFO:Consumer mbyutd:mbyutd: 46
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 70
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:Consumer mbyutd:mbyutd: 70
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b82f80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 85
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:Consumer mbyutd:mbyutd: 85
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b82920>
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 62
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:Consumer mbyutd:mbyutd: 62
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b82f80>
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 50
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:Consumer mbyutd:mbyutd: 50
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b835e0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 84
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:Consumer mbyutd:mbyutd: 84
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b828f0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 26
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:Consumer mbyutd:mbyutd: 26
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b837c0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 85
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:Consumer mbyutd:mbyutd: 85
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b829e0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 53
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:Consumer mbyutd:mbyutd: 53
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x72f7c6b836d0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: mbyutd 33
+INFO:root:Sending message to <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 58468)>
+INFO:Consumer mbyutd:mbyutd: 33
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x72f7c6b82950>
+INFO:root:Command: subscribe
+INFO:Consumer mbyutd:mbyutd: 33
+INFO:Producer mbyutd:mbyutd: 87
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x72f7c6b82bc0>
+INFO:Producer mbyutd:mbyutd: 83
+INFO:root:Command: subscribe
+INFO:Producer mbyutd:mbyutd: 47
+INFO:Producer mbyutd:mbyutd: 5
+INFO:Producer mbyutd:mbyutd: 40
+INFO:Consumer mbyutd:mbyutd: 33
+INFO:Producer mbyutd:mbyutd: 19
+INFO:Producer mbyutd:mbyutd: 23
+INFO:Producer mbyutd:mbyutd: 21
+INFO:Producer mbyutd:mbyutd: 16
+INFO:Producer mbyutd:mbyutd: 99
+INFO:Producer /pqctua/adrzbl:/pqctua/adrzbl: 27
+INFO:Producer /pqctua/pgfzas:/pqctua/pgfzas: 76
+INFO:Producer abeurj:abeurj: 37
+INFO:Producer abeurj:abeurj: 96
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7b55b5cceec0>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7b55b5cceec0>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 45670)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 39326)>
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7b55b5cceec0>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7b55b5cceec0>
+INFO:root:Command: subscribe
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 21
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50050)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50052)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50050)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50052)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50050)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50052)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50050)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50052)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50050)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50052)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50050)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50052)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 18
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50050)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50052)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 22
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50050)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50052)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 20
+INFO:root:Sending message to <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50050)>
+INFO:root:Sending message to <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 5000), raddr=('127.0.0.1', 50052)>
+INFO:root:Received message: <src.protocol.PublishMessage object at 0x7b55b5cceec0>
+INFO:root:Command: publish
+INFO:root:Received message to publish: /temp 19
+INFO:root:Received message: <src.protocol.SubscribeMessage object at 0x7b55b5cceec0>
+INFO:root:Command: subscribe
